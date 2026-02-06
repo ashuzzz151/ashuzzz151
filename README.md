@@ -1,16 +1,39 @@
-## Hi there 👋
+## Hi there, welcome ... 
+#  I'm Ashutosh Kumar 👋
 
-<!--
-**ashuzzz151/ashuzzz151** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year MCA student  
+💻 Comfortable with **Java**, **C**, and **SQL**  
+📚 Currently learning **Python** and **Data Structures & Algorithms**  
+🌱 Using this space to document my progress and small projects
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Snapshot
+
+- Languages: Java, C, Python (learning)  
+- Databases: SQL (basics – queries, tables, simple joins)  
+- Interests: Problem solving, clean code, and understanding how things work under the hood  
+
+---
+
+## 🌟 A bit about me
+
+I’m a fresher stepping into the developer world, focusing on building strong fundamentals instead of rushing into too many tools at once.  
+I like learning by doing: writing small programs, breaking them, and then fixing them to understand the concept better.  
+
+---
+
+## 🎯 Currently working on
+
+- Strengthening Java concepts  
+- Learning Python   
+- Learning Data Structures & Algorithms
+  
+---
+
+## 📫 Connect with me
+
+- Email: ashutoshsinghzzz151@gmail.com 
+- LinkedIn: https://www.linkedin.com/in/ashuzzz151 
+
+_Thanks for visiting my profile — this README will grow as I do._
