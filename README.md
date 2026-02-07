@@ -1,7 +1,7 @@
 ## Hi there, welcome ... 
-#  I'm Ashutosh Kumar 👋
+#  I'm ASHUTOSH KUMAR 👋
 
-🎓 Final-year MCA student  
+🎓 Final-year MCA student from MAHATMA GANDHI KASHI VIDYAPITH, VARANASI  
 💻 Comfortable with **Java**, **C**, and **SQL**  
 📚 Currently learning **Python** and **Data Structures & Algorithms**  
 🌱 Using this space to document my progress and small projects
