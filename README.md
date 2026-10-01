@@ -1,16 +1,16 @@
 ## Hi there, welcome ... 
 #  I'm ASHUTOSH KUMAR 👋
 
-🎓 Final-year MCA student from MAHATMA GANDHI KASHI VIDYAPITH, VARANASI  
-💻 Comfortable with **Java**, **C**, and **SQL**  
-📚 Currently learning **Python** and **Data Structures & Algorithms**  
+🎓 MCA graduate from MAHATMA GANDHI KASHI VIDYAPITH, VARANASI  
+💻 Comfortable with **Java**, **C**, **SQL**, **Python**  
+📚 Currently learning **Data Science**  
 🌱 Using this space to document my progress and small projects
 
 ---
 
 ## 🔧 Tech Snapshot
 
-- Languages: Java, C, Python (learning)  
+- Languages: Java, C, Python 
 - Databases: SQL (basics – queries, tables, simple joins)  
 - Interests: Problem solving, clean code, and understanding how things work under the hood  
 
@@ -25,9 +25,10 @@ I like learning by doing: writing small programs, breaking them, and then fixing
 
 ## 🎯 Currently working on
 
-- Strengthening Java concepts  
-- Learning Python   
-- Learning Data Structures & Algorithms
+- Strengthening my Data science skills 
+- Learning Python
+- Machine Learning
+- Projects 
   
 ---
 
